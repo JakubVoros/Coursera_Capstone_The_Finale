@@ -1,2 +1,4 @@
-# Coursera_Capstone_The_Finale
-Capstone Project - The Battle of Neighborhoods (Week 1 and 2)
+# Coursera_Capstone
+Capstone Project - Relocation assistand
+To view the Jupyter Notebook with functional interactive maps use:
+https://nbviewer.jupyter.org/github/JakubVoros/Coursera_Capstone_The_Finale/blob/master/assistant2.ipynb
